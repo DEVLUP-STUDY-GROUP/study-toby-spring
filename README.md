@@ -8,5 +8,5 @@ Read and talk about [Toby's spring](https://product.kyobobook.co.kr/detail/S0000
 
 | **Name**               | **GitHub**                                    | **Profile**                                                     |
 | :--------------------- | :-------------------------------------------- | :-------------------------------------------------------------- |
-| 강호진 (Kang ho jin)   | [dev-river](https://github.com/dev-river)     | [LinkedIn]()              |
+| 강호진 (Kang ho jin)   | [hojin kang](https://github.com/Jimmykang1210)     | [LinkedIn]()              |
 | 김영민 (YoungMin Kim)  | [ym1085](https://github.com/ym1085)           | [LinkedIn](https://www.linkedin.com/in/youngmin-kim-1a245019a/) |
