@@ -11,7 +11,7 @@
 
 ### 3.6.1 update()
 
-- deleteAll()에 처음 적용했던 콜백은 StatementStrategy 인터페이스의 makePreparedStatement() 메소드
+- `deleteAll()`에 처음 적용했던 콜백은 StatementStrategy 인터페이스의 makePreparedStatement() 메소드
     - JdbcTemplate의 콜백은 PreparedStatementCreator 인터페이스의 createPreparedStatement()
     - 템플릿으로부터 Connection을 제공받아 PreparedStatement을 만들어 돌려준다는 면에서 구조는 동일
     - PreparedStatementCreator 타입의 콜백을 받아서 사용하는 JdbcTemplate의 템플릿 메소드는 update()
