@@ -45,6 +45,3 @@ out/
 
 # Docker
 volumes/
-
-# etc
-mentoring/
